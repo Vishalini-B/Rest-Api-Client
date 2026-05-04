@@ -192,6 +192,12 @@ validation check.
 
 ---
 
+## Output
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/a3cce631-02c0-4637-89b1-dbbe9d674fb7" />
+
+---
+
 ## 👩‍🎓 Author
 
 **Vishalini**
