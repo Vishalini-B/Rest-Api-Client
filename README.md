@@ -1,1 +1,14 @@
-# Rest-Api-Client
+# Rest-Api-Client-Java
+
+*COMPANY *: CODTECH IT SOLUTIONS
+
+*NAME *: VISHALINI B
+
+*INTERN ID *: CTIS8696
+
+*DOMAIN *: Java Programming
+
+*DURATION *: 4 WEEEKS
+
+*MENTOR *: NEELA SANTOSH
+
